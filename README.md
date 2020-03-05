@@ -1,1 +1,1 @@
-This is a simple TODO tasks applications built on Springboot, MongoDB, Angular.
+This is a simple TODO tasks application built on Springboot, MongoDB, Angular.
